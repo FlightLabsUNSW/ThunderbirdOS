@@ -102,3 +102,12 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+
+# Text Editor files
+.*.swp
+
+# ROS2 generated directories
+build
+install
+log
+
