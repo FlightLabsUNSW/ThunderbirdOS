@@ -1,5 +1,6 @@
 # ThunderbirdOS
 
+
 ## Compilation
 
 Navigate to where you want to put the workspace
@@ -29,3 +30,9 @@ e.g:
 ```sh
 $ ros2 run example_package sos_publisher
 ```
+## Development
+
+## Branches
+When you make a new branch, put the name and a brief description here
+
+* `test_branch` = a test branch to show you format
