@@ -16,13 +16,13 @@ $ source install/setup.bash
 ```
 
 ### Note
-For a much greater depth in using colcon refer to the docs:
+For a much greater depth in using Colcon refer to the docs:
 [Colcon Documentation](https://colcon.readthedocs.io/en/released/user/quick-start.html)
 
 Colcon can also be used for building ROS 1 packages as noted in the docs
 
 ## Running
-To run a particular package after building it, use ros2 run
+To run a particular package after building it, use `ros2 run`
 ```sh
 $ ros2 run package_name node_name
 ```

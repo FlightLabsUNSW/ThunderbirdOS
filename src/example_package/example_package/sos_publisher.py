@@ -26,7 +26,7 @@ def main(args=None):
     msg = String()
     
     def timer_callback():
-        msg.data = 'ObiWan Kenobi, please help me. You\'re my only hope'
+        msg.data = 'Obi-Wan Kenobi, please help me. You\'re my only hope'
         node.get_logger().info('Publishing sos message: ' + msg.data)
         publisher.publish(msg)
 
